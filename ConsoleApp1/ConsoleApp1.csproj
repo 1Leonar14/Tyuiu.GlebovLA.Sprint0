@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{67497D35-81E4-4D44-B2A8-8E435526350E}</ProjectGuid>
+    <ProjectGuid>{0A4F2129-F137-431E-9690-E834AA8631FA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tyuiu.GlebovLA.Sprint0.Task1.V0</RootNamespace>
-    <AssemblyName>Tyuiu.GlebovLA.Sprint0.Task1.V0</AssemblyName>
+    <RootNamespace>ConsoleApp1</RootNamespace>
+    <AssemblyName>ConsoleApp1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
