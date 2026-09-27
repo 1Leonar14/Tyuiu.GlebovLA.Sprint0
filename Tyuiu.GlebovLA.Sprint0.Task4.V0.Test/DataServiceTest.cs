@@ -15,7 +15,7 @@ namespace Tyuiu.GlebovLA.Sprint0.Task4.V0.Test
         [TestMethod]
         public void CheckedSubtractionValid()
         {
-            Assert.AreEqual(10, DataService.Subtraction(10, 5));
+            Assert.AreEqual(5, DataService.Subtraction(10, 5));
         }
         [TestMethod]
         public void CheckedMultiplicationValid()
